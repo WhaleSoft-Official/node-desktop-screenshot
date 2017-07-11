@@ -4,12 +4,12 @@
   "description": "Cross-platform screenshot module, using external tools",
   "license": "MIT",
   "author": {
-    "name": "John Murphy-Teixidor",
-    "email": "johnvmt@gmail.com"
+    "name": "WhaleSoft",
+    "email": "info@whalesoft.com.ua"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnvmt/node-desktop-screenshot"
+    "url": "https://github.com/WhaleSoft-Official/node-desktop-screenshot.git"
   },
   "dependencies": {
     "jimp": "0.2.x",
